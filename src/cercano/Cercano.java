@@ -30,6 +30,10 @@ public class Cercano {
          }
     System.out.println(cercano);
     
+    int kenner;
+    kenner=8;
+    System.out.println(kenner);
+    
     // add estoy listo 
     }
   }
